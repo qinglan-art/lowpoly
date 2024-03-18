@@ -9,7 +9,7 @@ on:
       targetfaces:
         description: 'Target number of faces for the low poly model'
         required: false
-        default: 7500
+        default: '7500'
 
 jobs:
   build:
